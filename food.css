@@ -120,17 +120,6 @@ h1{
   text-align: center;
 }
 
-.textarea {
-  position: absolute;
-  height: 350px;
-  top: 270%;
-  left: 20px;
-  background-color: inherit;
-  color: snow;
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
 .row {
   display: flex;
   justify-content: center;
